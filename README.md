@@ -9,9 +9,9 @@ project can be run without any additional components besides the ESP32.
 
 Okay, you need a few libraries to compile this.
 
-FastLED
-ESPAsyncWebServer (https://github.com/me-no-dev/ESPAsyncWebServer)
-AsyncTCP (https://github.com/me-no-dev/AsyncTCP)
++ FastLED
++ ESPAsyncWebServer (https://github.com/me-no-dev/ESPAsyncWebServer)
++ AsyncTCP (https://github.com/me-no-dev/AsyncTCP)
 
 The last two have to be installed manually
 1. Download each from their respective github link
